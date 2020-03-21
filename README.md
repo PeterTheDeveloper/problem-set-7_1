@@ -21,4 +21,4 @@ You will deploy this application to Heroku. You will submit this project by uplo
   * [Build and deploy a Node Express server to Heroku in 10 steps](https://medium.com/@grantspilsbury/build-and-deploy-a-node-express-server-to-heroku-in-10-steps-70c936ab15dc)
 
 ## Due Date
-Friday, March 19 at 6:30PM
+Friday, March 19 at 6:30PM.
